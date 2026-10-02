@@ -4,8 +4,8 @@
 class Ocid < Formula
   desc "Local-first, peer-to-peer distribution of OCI container images powered by iroh"
   homepage "https://github.com/safonas/ocid"
-  url "https://github.com/safonas/ocid/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "8e3ded24473aeba3584c445991cc409e3729072a7bde2d97dba4d9ff453e2309"
+  url "https://github.com/safonas/ocid/archive/refs/tags/v0.7.1.tar.gz"
+  sha256 "7450c045d8ca36af33c892e53666666aa75abedd0be4ceb3f9f423bc52b6626b"
   license "GPL-3.0-or-later"
   head "https://github.com/safonas/ocid.git", branch: "main"
 
